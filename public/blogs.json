@@ -1,0 +1,55 @@
+[
+    {
+      
+      
+      "id": 1,
+      "cover": "https://i.ibb.co/VjQbNBv/sami.png",
+      "title": "The Mystery of the Hidden Treasure",
+      "author": "John Smith",
+      "authorimg": "https://i.ibb.co/VjQbNBv/sami.png",
+      "posted-date": "2023-09-12",
+      "reading-time": "25 minutes",
+      "hashtags": ["mystery", "treasure", "adventure"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co/31SGTB9/photo-2022-12-04-17-05-05.jpg",
+      "title": "Lost in Time",
+      "author": "Jane Doe",
+      "authorimg": "https://i.ibb.co/31SGTB9/photo-2022-12-04-17-05-05.jpg",
+      "posted-date": "2023-09-11",
+      "reading-time": "20 minutes",
+      "hashtags": ["time-travel", "mystery"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.postimg.cc/637s4Fyx/sawon.jpg",
+      "title": "The Secret Code",
+      "author": "David Johnson",
+      "authorimg": "https://i.postimg.cc/rp8Yx3ZY/photo-2022-09-23-19-57-30.jpg",
+      "posted-date": "2023-09-10",
+      "reading-time": "30 minutes",
+      "hashtags": ["code-breaking", "secrets"]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.postimg.cc/7LcDRWqY/Screenshot-2023-01-27-at-12-54-22-Shamsia-Rahman-Sami-shamsiarahman-Instagram-photos-and-videos.png",
+      "title": "Into the Unknown",
+      "author": "Emily Brown",
+      "authorimg": "https://i.postimg.cc/qv1ps7YK/Screenshot-2023-01-27-at-12-53-54-Shamsia-Rahman-Sami-shamsiarahman-Instagram-photos-and-videos.png",
+      "posted-date": "2023-09-09",
+      "reading-time": "15 minutes",
+      "hashtags": ["adventure", "unknown"]
+    },
+    {
+      "id": 5,
+      "cover": "https://i.postimg.cc/8zd0FN46/joy1.jpg",
+      "title": "A Tale of Two Cities",
+      "author": "Charles Dickens",
+      "authorimg": "https://i.postimg.cc/rp8Yx3ZY/photo-2022-09-23-19-57-30.jpg",
+      "posted-date": "2023-09-08",
+      "reading-time": "40 minutes",
+      "hashtags": ["classic", "history"]
+    }
+  ]
+  

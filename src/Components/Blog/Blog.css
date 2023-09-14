@@ -1,0 +1,9 @@
+.img-cover{
+    max-width: 150px;
+}
+.container{
+    margin: 16px;
+   border: 6px solid grey;
+    border-radius: 20px;
+    padding: 15px;
+}
